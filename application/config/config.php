@@ -23,6 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+//http://localhost:4888/every-type-of-beer/
 $config['base_url'] = 'http://evertypeofbeer.com/';
 
 /*
