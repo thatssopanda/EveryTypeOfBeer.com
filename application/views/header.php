@@ -42,7 +42,7 @@
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> 
 						<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> 
 					</button> 
-					<a class="navbar-brand" href="index.html"><h1><img src="<?=base_url('assets/images/logo.png')?>" alt="logo"></h1></a> 
+					<a class="navbar-brand" href="index.html"><h1><img src="<?=base_url('assets/images/logo.png')?>" alt="logo" width="80%"></h1></a> 
 				</div> 
 				<div class="collapse navbar-collapse"> 
 					<ul class="nav navbar-nav navbar-right"> 
@@ -79,17 +79,17 @@
 				</div>
 				<div class="item" style="background-image: url(<?=base_url('assets/images/slider/slide2.jpg')?>)"> 
 					<div class="carousel-caption"> <div> 
-						<h2 class="heading animated bounceInDown">Get All in Onepage</h2> 
-						<p class="animated bounceInUp">Everything is outstanding </p> <a class="btn btn-default slider-btn animated fadeIn" href="#">Get Started</a> 
+						<h2 class="heading animated bounceInDown">Beer Types</h2> 
+						<p class="animated bounceInUp">Learn about the different types of beer.</p> <a class="btn btn-default slider-btn animated fadeIn" href="#">Get Started</a> 
 					</div> 
 				</div> 
 			</div> 
 			<div class="item" style="background-image: url(<?=base_url('assets/images/slider/slide1.jpg')?>"> 
 				<div class="carousel-caption"> 
 					<div> 
-						<h2 class="heading animated bounceInRight">Fully Responsive Template</h2> 
-						<p class="animated bounceInLeft">100% Responsive HTML template</p> 
-						<a class="btn btn-default slider-btn animated bounceInUp" href="#">Get Started</a> 
+						<h2 class="heading animated bounceInRight">Know How To Order</h2> 
+						<p class="animated bounceInLeft">Know how to order the right beer and discover what food to pair it with.</p> 
+						<a class="btn btn-default slider-btn animated bounceInUp" href="#">Start Pairing</a> 
 					</div> 
 				</div> 
 			</div>
@@ -105,8 +105,8 @@
 	<div class="container">
 		<div class="text-center">
 			<div class="col-sm-8 col-sm-offset-2">
-				<h2 class="title-one">Why With Us?</h2>
-				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+				<h2 class="title-one">Why EveryTypeOfBeer.com?</h2>
+				<p>When I visited my first local brewery, I felt like a kid in the candy store. There were an assortment of beers with a varying colors and I had no idea what to order! To help others avoid drinking a lager right after an amber ale, I created EveryTypeOfBeer.com. This website will teach you about the different types of beers and what food to pair your beer with.</p>
 			</div>
 		</div>
 		<div class="about-us">
