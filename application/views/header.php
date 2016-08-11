@@ -6,7 +6,7 @@
 	<meta name="description" content="Creative One Page Parallax Template">
 	<meta name="keywords" content="Creative, Onepage, Parallax, HTML5, Bootstrap, Popular, custom, personal, portfolio" /> 
 	<meta name="author" content=""> 
-	<title>HIMU - OnePage HTML Parallax template</title> 
+	<title>EveryTypeOfBeer.com - Learn about the different types of beer</title> 
 	<link href="<?=base_url('assets/css/bootstrap.min.css')?>" rel="stylesheet">
 	<link href="<?=base_url('assets/css/prettyPhoto.css')?>" rel="stylesheet"> 
 	<link href="<?=base_url('assets/css/font-awesome.min.css')?>" rel="stylesheet"> 
@@ -49,7 +49,6 @@
 						<li class="scroll active"><a href="#navigation">Home</a></li> 
 						<li class="scroll"><a href="#about-us">About Us</a></li> 
 						<li class="scroll"><a href="#services">Services</a></li> 
-						<li class="scroll"><a href="#our-team">Our Team</a></li> 
 						<li class="scroll"><a href="#portfolio">Portfolio</a></li> 
 						<li class="scroll"><a href="#clients">Clients</a></li> 
 						<li class="scroll"><a href="#blog">Blog</a></li> 
@@ -72,9 +71,9 @@
 				<div class="item active" style="background-image: url(<?=base_url('assets/images/slider/slide3.jpg')?>)"> 
 					<div class="carousel-caption"> 
 						<div> 
-							<h2 class="heading animated bounceInDown">'Himu' Onepage HTML Template</h2> 
-							<p class="animated bounceInUp">Fully Professional one page template</p> 
-							<a class="btn btn-default slider-btn animated fadeIn" href="#">Get Started</a> 
+							<h2 class="heading animated bounceInDown">Every Type Of Beer</h2> 
+							<p class="animated bounceInUp">All of the beer knowledge that you need.</p> 
+							<a class="btn btn-default slider-btn animated fadeIn" href="#">Start Learning</a> 
 						</div> 
 					</div> 
 				</div>
