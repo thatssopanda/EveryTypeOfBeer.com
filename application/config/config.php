@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //http://localhost:4888/every-type-of-beer/
-$config['base_url'] = 'http://evertypeofbeer.com/';
+$config['base_url'] = 'http://everytypeofbeer.com/';
 
 /*
 |--------------------------------------------------------------------------
